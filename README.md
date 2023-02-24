@@ -77,10 +77,4 @@ npm start
 ![State Diagram Encryption/Decryption](https://raw.githubusercontent.com/tarandeep100/HyperLedgerMedicalData/main/State%20Diagram%20EncryptDecrypt.drawio.png)
 
 
-## ScreenShots
-
-![Patient ](https://raw.githubusercontent.com/tarandeep100/HyperLedgerMedicalData/main/Patient.jpg)
-![Hospital ](https://raw.githubusercontent.com/tarandeep100/HyperLedgerMedicalData/main/Hospital.jpg)
-![Doctor ](https://raw.githubusercontent.com/tarandeep100/HyperLedgerMedicalData/main/Doctor.jpg)
-
 
